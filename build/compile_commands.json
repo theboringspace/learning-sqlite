@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/porte/Desktop/Learning SQLite/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/porte/Desktop/Learning SQLite/include\" -std=gnu++20 -o CMakeFiles\\stadium_tracker.dir\\src\\main.cpp.obj -c \"C:\\Users\\porte\\Desktop\\Learning SQLite\\src\\main.cpp\"",
+  "file": "C:/Users/porte/Desktop/Learning SQLite/src/main.cpp",
+  "output": "C:/Users/porte/Desktop/Learning SQLite/build/CMakeFiles/stadium_tracker.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/porte/Desktop/Learning SQLite/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/porte/Desktop/Learning SQLite/include\" -std=gnu++20 -o CMakeFiles\\stadium_tracker.dir\\src\\Database.cpp.obj -c \"C:\\Users\\porte\\Desktop\\Learning SQLite\\src\\Database.cpp\"",
+  "file": "C:/Users/porte/Desktop/Learning SQLite/src/Database.cpp",
+  "output": "C:/Users/porte/Desktop/Learning SQLite/build/CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj"
+}
+]

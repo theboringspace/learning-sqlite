@@ -1,0 +1,3 @@
+C:/Users/porte/Desktop/Learning SQLite/build/CMakeFiles/stadium_tracker.dir
+C:/Users/porte/Desktop/Learning SQLite/build/CMakeFiles/edit_cache.dir
+C:/Users/porte/Desktop/Learning SQLite/build/CMakeFiles/rebuild_cache.dir

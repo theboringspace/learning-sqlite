@@ -1,0 +1,31 @@
+# ninja log v7
+39	351	8147819631917526	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+352	458	8147819635052746	stadium_tracker.exe	d54a28d5fae39fd9
+2	156	8147820464743894	build.ninja	41e82e16d3d8491
+2	156	8147820464693707	C:/Users/porte/Desktop/Learning SQLite/build/cmake_install.cmake	41e82e16d3d8491
+26	125	8147820465763167	CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj	f09c2d110afdc600
+20	426	8147820465697772	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+427	535	8147820469771870	stadium_tracker.exe	5eb76c9c85889850
+5	313	8147821285042878	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+314	419	8147821288130850	stadium_tracker.exe	5eb76c9c85889850
+5	340	8147825311628124	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+10	357	8147825311692212	CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj	f09c2d110afdc600
+357	464	8147825315158486	stadium_tracker.exe	5eb76c9c85889850
+11	333	8147829001765594	CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj	f09c2d110afdc600
+5	336	8147829001693311	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+336	447	8147829005018869	stadium_tracker.exe	5eb76c9c85889850
+4	311	8147829309040985	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+312	421	8147829312121807	stadium_tracker.exe	5eb76c9c85889850
+5	358	8147831165877606	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+10	359	8147831165937664	CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj	f09c2d110afdc600
+360	471	8147831169431068	stadium_tracker.exe	5eb76c9c85889850
+10	344	8147850492593734	CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj	f09c2d110afdc600
+4	343	8147850947666166	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+344	463	8147850951059163	stadium_tracker.exe	5eb76c9c85889850
+4	329	8147851421563059	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+330	439	8147851424815968	stadium_tracker.exe	5eb76c9c85889850
+5	336	8147852266160453	CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj	f09c2d110afdc600
+337	449	8147852269495520	stadium_tracker.exe	5eb76c9c85889850
+5	335	8147854719628445	CMakeFiles/stadium_tracker.dir/src/main.cpp.obj	56d012625ae645c6
+11	351	8147854719683611	CMakeFiles/stadium_tracker.dir/src/Database.cpp.obj	f09c2d110afdc600
+351	462	8147854723092332	stadium_tracker.exe	5eb76c9c85889850
